@@ -5,19 +5,19 @@ body {
     margin: 0; 
 }
 
-header{
+header {
     font-size: 60px;
     padding: 6px;
     text-align: center;
 }
 
-h1{
+h1 {
     font-size: 30px;
     border-bottom: double 5px purple;
     text-align: center;
 }
 
-p{
+p {
     font-size: 20px;
     text-align: center;
 }
